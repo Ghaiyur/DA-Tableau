@@ -8,6 +8,14 @@ Dashboard for sales , profit and quantity , how well the categories are doing.
 
 Check out the LIVE link [here](https://public.tableau.com/views/DiscountMartSalesAnalytics_16251963203240/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) !
 
+### I can help you to make your data from this 
+
+![Dataset](https://user-images.githubusercontent.com/26713317/124206649-615f0700-db01-11eb-80f3-db8f2c74b209.png)
+
+### into this !
+
+![dash](https://user-images.githubusercontent.com/26713317/124217163-6ded5a80-db15-11eb-8198-984c6a85179b.png)
+
 
 
 
