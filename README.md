@@ -6,7 +6,7 @@
 
 Dashboard for sales , profit and quantity , how well the categories are doing. 
 
-Check out the LIVE link [here](https://public.tableau.com/views/DiscountMartSalesAnalytics_16251963203240/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) !
+Checkout the LIVE link [here](https://public.tableau.com/views/DiscountMartSalesAnalytics_16251963203240/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) !
 
 ### I can help you to make your data from this 
 
@@ -15,6 +15,18 @@ Check out the LIVE link [here](https://public.tableau.com/views/DiscountMartSale
 ### into this !
 
 ![dash](https://user-images.githubusercontent.com/26713317/124217163-6ded5a80-db15-11eb-8198-984c6a85179b.png)
+
+---
+
+### Project 2 : Human Resources Analytics 
+
+Dashboard to track employee count , performance , and attrition.
+
+Checkout the LIVE link [here](https://public.tableau.com/app/profile/ghaiyur/viz/GreenDestinationsHumanResourcesAnalytics/HRAnalytics)
+
+### Make your surveys work for you !
+
+![Dashhr](https://user-images.githubusercontent.com/26713317/124340072-49a28400-dbd0-11eb-9085-da3e4b26b212.png)
 
 
 
