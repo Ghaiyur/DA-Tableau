@@ -28,6 +28,17 @@ Checkout the LIVE link [here](https://public.tableau.com/app/profile/ghaiyur/viz
 
 ![Dashhr](https://user-images.githubusercontent.com/26713317/124340072-49a28400-dbd0-11eb-9085-da3e4b26b212.png)
 
+### Project 3 : SuperStore Sales Agent Tracker
+
+SuperStore Sales Agent Tracker to keep track of Sales figures for individual executive and see their impact on the company over custom periods of time.
+
+Checkout the LIVE link [here](https://public.tableau.com/app/profile/ghaiyur/viz/SuperStoreSalesAgentTracker_16252897490430/SalesAgentTracker)
+
+### Keep track of your wins and losses with your team using dynamic dashboards 
+
+![dashsalesagent](https://user-images.githubusercontent.com/26713317/124344101-21c21900-dbee-11eb-9629-75a3afb04bd4.png)
+
+
 
 
 
