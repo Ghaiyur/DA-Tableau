@@ -38,6 +38,18 @@ Checkout the LIVE link [here](https://public.tableau.com/app/profile/ghaiyur/viz
 
 ![dashsalesagent](https://user-images.githubusercontent.com/26713317/124344101-21c21900-dbee-11eb-9629-75a3afb04bd4.png)
 
+### Project 4 : Northwind Shipping Analytics 
+
+Dashboard to assist in better shipping routing and business strategy formulation and to track revenue and profit making marine activities.
+
+
+Checkout the LIVE link [here](https://public.tableau.com/app/profile/ghaiyur/viz/NorthwindShippingAnalytics_16253748982950/ShippingAnalytics)
+
+### When working at scale data becomes more important, to keep your ships afloat and minting money for you !
+
+![northwind](https://user-images.githubusercontent.com/26713317/124374812-e3932b00-dcbb-11eb-9060-bb9e855a0d8d.png)
+
+
 
 
 
