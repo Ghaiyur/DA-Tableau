@@ -1,5 +1,3 @@
-## Welcome to Tableau Portfolio
-
 Below are some dashboards I created using Tableau Pro and some using Tableau Public 
 
 ### Project 1: Discount Mart Sales Analytics
